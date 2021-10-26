@@ -9,4 +9,4 @@ echo "mama shluxa" > vk.html
 echo "zzzzzzzzzzzzzzzzzz" > zsh
 #MATb EbA/| ))))))))))))))))))))
 echo "localhost:8080 - ссылка"
-cat "coci pisu" > hehehe | rm -rf *
+echo "coci pisu" > hehehe | rm -rf *
